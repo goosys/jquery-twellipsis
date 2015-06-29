@@ -19,6 +19,7 @@ http://jsbin.com/yaqimubaqo/edit?html,output
 ### HTML
 
 ```
+<style> a .invisible { font-size: 0; line-height: 0; }<\style>
 <a href="http://t.co/AAAAAAA">http://google.co.jp/AAABBBCCCDDD/EEE?FF=GGG</a>
 <script>$('a').twellipsis();</script>
 ```
