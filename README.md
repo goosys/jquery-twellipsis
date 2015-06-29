@@ -28,7 +28,7 @@ http://jsbin.com/yaqimubaqo/edit?html,output
 #### Display
 
 ```
-http://google.co.jp/AAABBBCCCDDD/EEE?FF=GGG...
+google.co.jp/AAABBBCCCDDD/EEE?FF=GGG...
 ```
 
 #### Source
