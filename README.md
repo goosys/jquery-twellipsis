@@ -44,4 +44,6 @@ google.co.jp/AAABBBCCCDDD/EEE?FF=GGG...
 </a>
 ```
 
+# License
 
+MIT License
