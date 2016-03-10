@@ -3,7 +3,7 @@ ellipsis of anchor text via Twitter
 
 ## Try
 
-http://jsbin.com/yaqimubaqo/edit?html,output
+http://jsbin.com/huzohu/edit?html,output
 
 ## How to use
 
